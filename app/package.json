@@ -1,0 +1,22 @@
+{
+  "name": "app-validation-sql",
+  "version": "1.0.0",
+  "description": "Validator SQL desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloliz/sql-validation.git"
+  },
+  "author": "Danilo Raulino de Liz, Geferson Marcos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniloliz/sql-validation/issues"
+  },
+  "homepage": "https://github.com/daniloliz/sql-validation#readme",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
