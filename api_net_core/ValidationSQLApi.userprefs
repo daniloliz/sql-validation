@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{209CCA5F-FA5C-4955-8259-68366C8289D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValidationSQLApiModel/Controllers/SQLValidationController.cs">
+    <Files>
+      <File FileName="ValidationSQLApiModel/ValidationSQLApiModel.csproj" Line="1" Column="1" />
+      <File FileName="ValidationSQLApiModel/Models/PropertySql.cs" Line="7" Column="15" />
+      <File FileName="ValidationSQLApiModel/Models/SQLDB.cs" Line="13" Column="39" />
+      <File FileName="ValidationSQLApiModel/Repositories/Interfaces/ISQLDBRepository.cs" Line="11" Column="26" />
+      <File FileName="ValidationSQLApiModel/Repositories/SQLDBRepository.cs" Line="41" Column="24" />
+      <File FileName="ValidationSQLApiModel/Controllers/SQLValidationController.cs" Line="10" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ValidationSQLApiModel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
